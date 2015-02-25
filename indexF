@@ -1,4 +1,5 @@
 master mastermaster
+<<<<<<< HEAD
 
 master master master
 
@@ -8,3 +9,14 @@ mastermastermaster
 mastermastermaster
 
 mastermastermaster
+=======
+
+master feature master
+
+mastermastermaster
+feature
+
+mastermastermaster
+
+feature
+>>>>>>> feature1
